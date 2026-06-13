@@ -2,9 +2,9 @@
 
 # Hitesh Baghel
 
-*Java Backend Developer · Spring Boot · REST APIs · Cloud*
+**Java Backend Developer · Spring Boot · REST APIs · Cloud**
 
-*B.Tech Computer Science · MIT Ujjain · Final Year*
+B.Tech Computer Science · MIT Ujjain · Final Year
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hiteshbaghel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hiteshbaghel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hiteshbaghel-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hiteshbaghel/)
@@ -19,14 +19,14 @@
 
 ## About
 
-*I'm a backend developer focused on building reliable, scalable APIs using Java and Spring Boot. I enjoy working on systems that handle real users — thinking through security, performance, and clean code structure.*
+I'm a backend developer focused on building reliable, scalable APIs using Java and Spring Boot. I enjoy working on systems that handle real users — thinking through security, performance, and clean code structure.
 
-*Currently in my final semester at MIT Ujjain, actively looking for backend or full-stack developer roles where I can contribute and grow.*
+Currently in my final semester at MIT Ujjain, actively looking for backend or full-stack developer roles where I can contribute and grow.
 
-- 🔧 &nbsp;*Building [SkillSync AI](https://skillsyncai.vercel.app/) — an AI-powered placement prep platform*
-- ☁️ &nbsp;*Hands-on experience deploying Spring Boot apps on Google Cloud*
-- 🏆 &nbsp;*1st Prize at ProjectExpo 4.0 among 72+ teams*
-- 📍 &nbsp;*Based in Ujjain, MP · Open to relocation — Bangalore, Pune, Hyderabad*
+- 🔧 &nbsp;Building [SkillSync AI](https://skillsyncai.vercel.app/) — an AI-powered placement prep platform
+- ☁️ &nbsp;Hands-on experience deploying Spring Boot apps on Google Cloud
+- 🏆 &nbsp;1st Prize at ProjectExpo 4.0 among 72+ teams
+- 📍 &nbsp;Based in Ujjain, MP · Open to relocation (Bangalore, Pune, Hyderabad)
 
 ---
 
@@ -60,32 +60,32 @@
 
 ## Projects
 
-### SkillSync AI — *AI-Powered Placement Prep Platform*
-> *Java · Spring Boot · React · MySQL · Redis · Gemini API · Google Cloud*
+### SkillSync AI — AI-Powered Placement Prep Platform
+> Java · Spring Boot · React · MySQL · Redis · Gemini API · Google Cloud
 
-*A full-stack platform built to help engineering students prepare for placements through AI-driven tools.*
+A full-stack platform built to help engineering students prepare for placements through AI-driven tools.
 
-- *Built REST APIs for quiz generation, mock interviews, and performance tracking using Spring Boot*
-- *Integrated Gemini API for dynamic question generation and real-time interview feedback*
-- *Implemented JWT-based authentication with Spring Security and Redis token blacklisting for secure logout*
-- *Used `CompletableFuture` and `@Async` for non-blocking AI calls, improving response throughput*
-- *Deployed backend on Google Cloud with Nginx reverse proxy and SSL via Certbot*
+- Built REST APIs for quiz generation, mock interviews, and performance tracking using Spring Boot
+- Integrated Gemini API for dynamic question generation and real-time interview feedback
+- Implemented JWT-based authentication with Spring Security and Redis token blacklisting for secure logout
+- Used `CompletableFuture` and `@Async` for non-blocking AI calls, improving response throughput
+- Deployed backend on Google Cloud with Nginx reverse proxy and SSL via Certbot
 
 [![Live](https://img.shields.io/badge/Live-skillsyncai.vercel.app-3B82F6?style=flat-square)](https://skillsyncai.vercel.app/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/hiteshbaghel/SkillSyncAI)
-&nbsp;&nbsp; 🏆 *1st Prize · ProjectExpo 4.0 · MIT Ujjain*
+&nbsp;&nbsp; 🏆 **1st Prize · ProjectExpo 4.0 · MIT Ujjain**
 
 ---
 
-### ByteWise — *Academic Resource Platform*
-> *Java · Spring Boot · React · MySQL · Razorpay*
+### ByteWise — Academic Resource Platform
+> Java · Spring Boot · React · MySQL · Razorpay
 
-*A platform for engineering students to access curated study material and resources.*
+A platform for engineering students to access curated study material and resources.
 
-- *Designed RESTful APIs with role-based access control for student and admin users*
-- *Integrated Razorpay payment gateway for premium content access*
-- *Built an admin dashboard with full content management — upload, edit, delete resources*
-- *Secured login flow with JWT authentication and BCrypt password hashing*
+- Designed RESTful APIs with role-based access control for student and admin users
+- Integrated Razorpay payment gateway for premium content access
+- Built an admin dashboard with full content management — upload, edit, delete resources
+- Secured login flow with JWT authentication and BCrypt password hashing
 
 [![Live](https://img.shields.io/badge/Live-bytewise24.vercel.app-3B82F6?style=flat-square)](https://bytewise24.vercel.app/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/hiteshbaghel/ByteWise)
@@ -96,10 +96,10 @@
 
 | | |
 |---|---|
-| 🥇 ***ProjectExpo 4.0 — 1st Place*** | *Best project among 72+ teams at MIT Ujjain* |
-| ☁️ ***Google Cloud Facilitator*** | *Trained and mentored 350+ students in cloud technologies* |
-| 🎓 ***IBM SkillsBuild Internship*** | *Frontend internship via Edunet Foundation & AICTE* |
-| 💻 ***Coding Club Core Member*** | *Organized coding workshops and hackathons for 50+ students* |
+| 🥇 **ProjectExpo 4.0 — 1st Place** | Best project among 72+ teams at MIT Ujjain |
+| ☁️ **Google Cloud Facilitator** | Trained and mentored 350+ students in cloud technologies |
+| 🎓 **IBM SkillsBuild Internship** | Frontend internship via Edunet Foundation & AICTE |
+| 💻 **Coding Club Core Member** | Organized coding workshops and hackathons for 50+ students |
 
 ---
 
@@ -116,9 +116,9 @@
 
 <div align="center">
 
-*Backend Dev roles · Open Source · Technical Collaborations*
+**Open to backend developer roles · Full-stack opportunities · GCC / Product companies**
 
-*Got an interesting project or a role in mind? Let's talk.*
+Got an interesting project or a role in mind? Let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hiteshbaghel)
 [![Email](https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshbaghel03@gmail.com)
