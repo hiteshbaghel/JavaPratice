@@ -2,7 +2,7 @@
 
 # Hitesh Baghel
 
-*— Java Backend Developer · Spring Boot · REST APIs · Cloud*
+**Java Backend Developer · Spring Boot · REST APIs · Cloud**
 
 B.Tech Computer Science · MIT Ujjain · Final Year
 
